@@ -1,3 +1,3 @@
-#MK Media
+MK Media
 
 Blur Landing Webpage
